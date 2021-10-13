@@ -1,1 +1,2 @@
-ola esse recurso ajuda usar o git
+Olá  esse recurso ajuda usar o Git
+Isso e uma alteraçao
